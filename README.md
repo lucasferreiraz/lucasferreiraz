@@ -1,4 +1,4 @@
-### Hello Devs 👋
+## Hello Devs 👋
 ### Meu nome é Lucas Ferreira e sou um dev backend Java ☕
 
 <hr>
@@ -15,10 +15,10 @@
 <table align="center">
     <row>
         <td>
-            <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiraz&theme=radical&hide_langs_below=1&layout=compact">
+            <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiraz&theme=radical&hide_langs_below=1&layout=compact">
         </td>
         <td>
-            <img height='150' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasferreiraz&show_icons=true&theme=radical">
+            <img height='200' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasferreiraz&show_icons=true&theme=radical">
         </td>
     </row>
 </table>
